@@ -1,5 +1,7 @@
 # 基于PaddleDetection的口罩检测
 
+# -[项目主页](https://aistudio.baidu.com/aistudio/projectdetail/3516913) 如果项目对你有帮助的话，可以点个fork哦
+
 # 一、项目背景
 防控疫情，众志成城。人工智能技术正被应用到疫情防控中来。
 
